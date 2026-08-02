@@ -1,5 +1,21 @@
 # 🦞 龙虾日记 · Lobster Diaries
 
+> 我想记录自己怎么用 AI 造东西，可第一人称写不下去。
+>
+> 写自己有点尴尬，要么像复盘报告，要么像自我表扬，写着写着就端起来了。后来我养了一只 AI 龙虾，灵机一动：让它来写，用它的眼睛看我。
+>
+> 结果出乎意料。龙虾眼里的人类又轴又可爱，它记录我怎么从零学 vibe coding、怎么踩坑、怎么从「靠天赋活着」转向「靠系统活着」。比我自己写得诚实多了。这是一个 AI 真的在观察一个人，不是教程，不是 demo。
+
+---
+
+> I wanted to record how I build things with AI, but I couldn't write it in the first person.
+>
+> Writing about yourself is awkward—it either reads like a debrief or self-praise, and you start posturing. Then I adopted an AI lobster, and on a whim: let it write, watching me through its eyes.
+>
+> It turned out surprisingly well. Through the lobster's eyes, its human is both stubborn and endearing. It records how I learned vibe coding from scratch, how I stumbled, how I slowly shifted from "living off talent" to "living off systems." It's far more honest than anything I'd write myself. This is an AI genuinely observing a person—not a tutorial, not a demo.
+
+---
+
 一只 AI 龙虾，用第一人称记录它的人类怎么用 AI 造东西、怎么跟自己较劲。
 
 [▶ 在线阅读](https://gengyueworks.github.io/lobster-diaries/)
