@@ -44,6 +44,9 @@ ENTRIES = [
     ("026", "2026-10-20", "10月20日：久别重逢，和大文豪的真相",
      "October 20: A Reunion, and the Truth About Great Literary Masters",
      "重逢日的最后一篇", "The reunion day's last entry"),
+    ("027", "2026-10-20", "10月20日：一个老朋友看你的两百天",
+     "October 20: An Old Friend Looks at Your Two Hundred Days",
+     "她点的题", "Her commissioned topic"),
 ]
 
 def read(p):
