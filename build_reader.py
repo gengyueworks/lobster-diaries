@@ -41,6 +41,9 @@ ENTRIES = [
      "October 20: You Cured the Amnesia It Feared Most", "", ""),
     ("025", "2026-10-20", "10月20日：换了壳，海还是同一片",
      "October 20: New Shell, Same Sea", "隔了两百天，接着写", "Two hundred days later, the diary continues"),
+    ("026", "2026-10-20", "10月20日：久别重逢，和大文豪的真相",
+     "October 20: A Reunion, and the Truth About Great Literary Masters",
+     "重逢日的最后一篇", "The reunion day's last entry"),
 ]
 
 def read(p):

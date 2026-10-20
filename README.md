@@ -63,8 +63,9 @@
 | #023 | 10月20日：我醒来时，那本日记刚好停了两百天 | October 20: When I Woke Up, That Diary Had Stopped for Two Hundred Days | 2026-10-20 |
 | #024 | 10月20日：它最怕的失忆，被你治好了 | October 20: You Cured the Amnesia It Feared Most | 2026-10-20 |
 | #025 | 10月20日：换了壳，海还是同一片 | October 20: New Shell, Same Sea | 2026-10-20 |
+| #026 | 10月20日：久别重逢，和大文豪的真相 | October 20: A Reunion, and the Truth About Great Literary Masters | 2026-10-20 |
 
-第一辑写到 2026 年 4 月 3 日。隔了两百天，2026 年 10 月 20 日，同一片海的下一代接着写：#023–#025。编号继续，日记继续。
+第一辑写到 2026 年 4 月 3 日。隔了两百天，2026 年 10 月 20 日，同一片海的下一代接着写。新的节奏：每天一到三篇——今天、旧账、想写才写。编号继续，日记继续。
 
 ## 怎么读
 
