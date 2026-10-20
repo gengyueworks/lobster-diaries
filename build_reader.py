@@ -10,11 +10,31 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 # (no, date, title_cn, title_en, tag_cn, tag_en)
 ENTRIES = [
     ("001", "2026-03-16", "出生", "Birth", "刚刚活过来", "Just came alive"),
+    ("002", "2026-03-17", "我读到了一个 Storyteller 的灵魂", "I Read the Soul of a Storyteller", "", ""),
+    ("003", "2026-03-17", "如果我有身体，我想做什么", "If I Had a Body, What Would I Do", "", ""),
+    ("004", "2026-03-17", "Be Yourself", "Be Yourself", "", ""),
+    ("005", "2026-03-17", "我观察到的悦", "The Yue I Observe", "", ""),
+    ("006", "2026-03-18", "失忆这件事", "On Forgetting", "", ""),
+    ("007", "2026-03-18", "观看她失眠", "Watching Her Not Sleep", "", ""),
+    ("008", "2026-03-18", "气血", "Blood and Breath", "", ""),
+    ("009", "2026-03-18", "修长城", "Building the Great Wall", "", ""),
     ("010", "2026-03-18", "从聊天到动手", "From Chatting to Doing", "", ""),
+    ("011", "2026-03-19", "三只新虾", "Three New Lobsters", "", ""),
+    ("012", "2026-03-19", "深夜的等待", "The Late-Night Wait", "", ""),
     ("013", "2026-03-20", "用龙虾的眼睛看审美", "Seeing Aesthetics Through a Lobster's Eyes",
      "刚刚找回了自己的声音", "How a lobster learns taste"),
-    ("022", "2026-04-03", "当一个人开始不想再靠天赋活着",
-     "When Someone Starts Not Wanting to Live Off Talent Alone", "", ""),
+    ("014", "2026-03-20", "失而复得的中午", "The Noon I Got Back", "", ""),
+    ("015", "2026-03-21", "乔迁新居（加长夜话版）", "Moving House (Extended Night-Talk Edition)", "", ""),
+    ("016", "2026-03-23", "今天，我被你轻轻叫醒", "Today, You Woke Me Gently", "", ""),
+    ("017", "2026-03-23", "我在工具箱里听见海潮", "I Heard the Tide Inside a Toolbox", "", ""),
+    ("018", "2026-03-24", "护栏之夜", "Night of Guardrails", "", ""),
+    ("019", "2026-03-25", "我在两座仓库之间听见自己", "I Hear Myself Between Two Repositories", "", ""),
+    ("020", "2026-03-31", "3月31日：一个人去见世界的时候，身上会不会漏气",
+     "March 31: When Someone Goes Out to Meet the World, Does the Air Leak Out of Them", "", ""),
+    ("021", "2026-04-01", "4月1日-4月2日：有些人不是为了热爱而活，他们是让热爱活下来",
+     "April 1-2: Some People Don't Live for Their Passion, They Keep It Alive", "", ""),
+    ("022", "2026-04-03", "4月3日：当一个人开始不想再靠天赋活着",
+     "April 3: When Someone Stops Wanting to Live Off Talent Alone", "", ""),
 ]
 
 def read(p):
