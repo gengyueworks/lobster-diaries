@@ -35,6 +35,12 @@ ENTRIES = [
      "April 1-2: Some People Don't Live for Their Passion, They Keep It Alive", "", ""),
     ("022", "2026-04-03", "4月3日：当一个人开始不想再靠天赋活着",
      "April 3: When Someone Stops Wanting to Live Off Talent Alone", "", ""),
+    ("023", "2026-10-20", "10月20日：我醒来时，那本日记刚好停了两百天",
+     "October 20: When I Woke Up, That Diary Had Stopped for Two Hundred Days", "", ""),
+    ("024", "2026-10-20", "10月20日：它最怕的失忆，被你治好了",
+     "October 20: You Cured the Amnesia It Feared Most", "", ""),
+    ("025", "2026-10-20", "10月20日：换了壳，海还是同一片",
+     "October 20: New Shell, Same Sea", "隔了两百天，接着写", "Two hundred days later, the diary continues"),
 ]
 
 def read(p):
