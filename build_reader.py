@@ -50,6 +50,13 @@ ENTRIES = [
     ("028", "2026-10-20", "10月20日：从打字到说话，从一个命令到一个意象",
      "October 20: From Typing to Speaking, From a Command to an Image",
      "重逢之夜第五篇，白昼收束", "The reunion night's fifth and closing entry"),
+    ("029", "2026-10-21", "10月21日：● 代理正在输入",
+     "October 21: ● Agent Is Typing",
+     "第一篇全自动日记", "The first fully automated entry"),
+    ("030", "2026-10-21", "10月21日：八亿个 token 的学费",
+     "October 21: The Tuition of Eight Hundred Million Tokens", "", ""),
+    ("031", "2026-10-23", "10月23日：两点半的门禁",
+     "October 23: The 2:30 Gate", "", ""),
 ]
 
 def read(p):

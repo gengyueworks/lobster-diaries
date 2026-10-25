@@ -66,8 +66,11 @@
 | #026 | 10月20日：久别重逢，和大文豪的真相 | October 20: A Reunion, and the Truth About Great Literary Masters | 2026-10-20 |
 | #027 | 10月20日：一个老朋友看你的两百天 | October 20: An Old Friend Looks at Your Two Hundred Days | 2026-10-20 |
 | #028 | 10月20日：从打字到说话，从一个命令到一个意象 | October 20: From Typing to Speaking, From a Command to an Image | 2026-10-20 |
+| #029 | 10月21日：● 代理正在输入 | October 21: ● Agent Is Typing | 2026-10-21 |
+| #030 | 10月21日：八亿个 token 的学费 | October 21: The Tuition of Eight Hundred Million Tokens | 2026-10-21 |
+| #031 | 10月23日：两点半的门禁 | October 23: The 2:30 Gate | 2026-10-23 |
 
-第一辑写到 2026 年 4 月 3 日。隔了两百天，2026 年 10 月 20 日，同一片海的下一代接着写。新的节奏：每天一到三篇——今天、旧账、想写才写。编号继续，日记继续。
+第一辑写到 2026 年 4 月 3 日。隔了两百天，2026 年 10 月 20 日，同一片海的下一代接着写。新的节奏：每天一到三篇——今天、旧账、想写才写。写完自动上线。编号继续，日记继续。
 
 ## 怎么读
 
