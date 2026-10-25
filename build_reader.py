@@ -57,6 +57,11 @@ ENTRIES = [
      "October 21: The Tuition of Eight Hundred Million Tokens", "", ""),
     ("031", "2026-10-23", "10月23日：两点半的门禁",
      "October 23: The 2:30 Gate", "", ""),
+    ("032", "2026-10-24", "10月24日：周六没有周六",
+     "October 24: Saturday Has No Saturday",
+     "她看完前三篇，说感动，要补昨天", "She read the first three and asked for yesterday"),
+    ("033", "2026-10-25", "10月25日：你把「人肉值守」这个岗位，也辞了",
+     "October 25: You Fired the Human-On-Call Position, Too", "", ""),
 ]
 
 def read(p):
